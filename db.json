@@ -1,0 +1,34 @@
+{
+  "medicamentos": [
+    {
+      "id": 1,
+      "nome": "Novalgina",
+      "preco": "500",
+      "validade": "01/01/2020"
+    },
+    {
+      "id": 21,
+      "nome": "Rivotril",
+      "preco": 45.9,
+      "validade": "08/11/2019"
+    },
+    {
+      "id": 2,
+      "nome": "Torcilax",
+      "preco": 3,
+      "validade": "10/10/2019"
+    },
+    {
+      "id": 22,
+      "nome": "Dipirona",
+      "preco": "3.50",
+      "validade": "10/10/2019"
+    },
+    {
+      "id": 23,
+      "nome": "Xarope da Rochele",
+      "preco": "10.00",
+      "validade": "01/01/2020"
+    }
+  ]
+}
